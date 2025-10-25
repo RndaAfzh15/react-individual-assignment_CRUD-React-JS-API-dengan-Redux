@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "alpi ganteng",
+      "alamat": "jawa tengah",
+      "umur": 20,
+      "NoHP": "0897545628381"
+    },
+    {
+      "id": 2,
+      "nama": "apip sigma",
+      "alamat": "jawa",
+      "umur": 40,
+      "NoHP": "0897545628381"
+    },
+    {
+      "id": 3,
+      "nama": "reza",
+      "alamat": "jawa",
+      "umur": 18,
+      "NoHP": "0897545628381"
+    },
+    {
+      "id": 4,
+      "nama": "gita",
+      "alamat": "Medan",
+      "umur": 20,
+      "NoHP": "0897545628381"
+    },
+    {
+      "id": 5,
+      "nama": "abdul",
+      "alamat": "kaltim",
+      "umur": 20,
+      "NoHP": "0897545628381"
+    },
+    {
+      "id": 6,
+      "nama": "kurt cobain",
+      "alamat": "seattle",
+      "umur": 20,
+      "NoHP": "0897545628381"
+    },
+    {
+      "id": 7,
+      "nama": "mr.lonely",
+      "alamat": "lonesome town",
+      "umur": 20,
+      "NoHP": "0897545628381"
+    },
+    {
+      "id": 8,
+      "nama": "ica",
+      "alamat": "bekasi",
+      "umur": 20,
+      "NoHP": "0897545628381"
+    },
+    {
+      "id": 9,
+      "nama": "reza",
+      "alamat": "jogja",
+      "umur": 20,
+      "NoHP": "0897545628381"
+    },
+    {
+      "id": 10,
+      "nama": "mas rusdi jawir",
+      "alamat": "ngawi",
+      "umur": 20,
+      "NoHP": "0897545628381"
+    },
+    {
+      "id": 11,
+      "nama": "playboi carti",
+      "alamat": "sunda",
+      "umur": 20,
+      "NoHP": "0897545628381"
+    },
+    {
+      "id": 12,
+      "nama": "bladee",
+      "alamat": "swedia",
+      "umur": 20,
+      "NoHP": "0897545628381"
+    }
+  ]
+}
+
