@@ -18,7 +18,7 @@ function NavbarComp(args) {
   return (
     <div>
       <Navbar {...args}>
-      <NavbarBrand href="/">Welcome To Personal Data Of Batch 101 Hariselasa Academy</NavbarBrand>
+      <NavbarBrand href="/">Welcome To Personal Data Of Batch 11 Harisenin Academy</NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
           <Nav className="me-auto" navbar>
