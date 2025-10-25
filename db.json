@@ -2,88 +2,161 @@
   "users": [
     {
       "id": 1,
-      "nama": "alpi ganteng",
-      "alamat": "jawa tengah",
-      "umur": 20,
-      "NoHP": "0897545628381"
+      "nama": "Alfi Scott",
+      "alamat": "Pemalang, Jawa Tengah",
+      "umur": 22,
+      "NoHP": "08975-4562-8381"
     },
     {
       "id": 2,
-      "nama": "apip sigma",
-      "alamat": "jawa",
-      "umur": 40,
-      "NoHP": "0897545628381"
+      "nama": "Afif Irwansyah",
+      "alamat": "Cilandak, jakarta selatan",
+      "umur": 25,
+      "NoHP": "0897-5456-2312"
     },
     {
       "id": 3,
-      "nama": "reza",
-      "alamat": "jawa",
-      "umur": 18,
-      "NoHP": "0897545628381"
+      "nama": "Reza Oktavian",
+      "alamat": "Gianyar, Bali",
+      "umur": 27,
+      "NoHP": "0834-1232-1107"
     },
     {
       "id": 4,
-      "nama": "gita",
-      "alamat": "Medan",
-      "umur": 20,
-      "NoHP": "0897545628381"
+      "nama": "Gita",
+      "alamat": "Medan, Sumatera Utara",
+      "umur": 19,
+      "NoHP": "0832-1121-6532"
     },
     {
       "id": 5,
-      "nama": "abdul",
-      "alamat": "kaltim",
+      "nama": "Abdul Khoirun",
+      "alamat": "Samarinda, kalimantan Timur",
       "umur": 20,
-      "NoHP": "0897545628381"
+      "NoHP": "0811-1231-3421"
     },
     {
       "id": 6,
-      "nama": "kurt cobain",
-      "alamat": "seattle",
+      "nama": "Herman",
+      "alamat": "Bekasi, Jawa Barat",
       "umur": 20,
-      "NoHP": "0897545628381"
+      "NoHP": "0811-2312-8876"
     },
     {
       "id": 7,
-      "nama": "mr.lonely",
-      "alamat": "lonesome town",
-      "umur": 20,
-      "NoHP": "0897545628381"
+      "nama": "Yahya",
+      "alamat": "Banyumas, Jawa Tengah",
+      "umur": 18,
+      "NoHP": "0842-1122-5422"
     },
     {
       "id": 8,
-      "nama": "ica",
-      "alamat": "bekasi",
-      "umur": 20,
-      "NoHP": "0897545628381"
+      "nama": "Ica",
+      "alamat": "Koja, Jakarta Utara",
+      "umur": 18,
+      "NoHP": "0812-1142-5422"
     },
     {
       "id": 9,
-      "nama": "reza",
-      "alamat": "jogja",
-      "umur": 20,
-      "NoHP": "0897545628381"
+      "nama": "Cia",
+      "alamat": "Bandung, Jawa Barat",
+      "umur": 21,
+      "NoHP": "0821-1108-2321"
     },
     {
       "id": 10,
-      "nama": "mas rusdi jawir",
-      "alamat": "ngawi",
-      "umur": 20,
-      "NoHP": "0897545628381"
+      "nama": "Ronny Kamil",
+      "alamat": "Pekalongan, Jawa Tengah",
+      "umur": 23,
+      "NoHP": "0821-1121-2221"
     },
     {
       "id": 11,
-      "nama": "playboi carti",
-      "alamat": "sunda",
-      "umur": 20,
-      "NoHP": "0897545628381"
+      "nama": "Eci",
+      "alamat": "Jombang, Jawa Timur",
+      "umur": 19,
+      "NoHP": "0812-1132-6661"
     },
     {
       "id": 12,
-      "nama": "bladee",
-      "alamat": "swedia",
+      "nama": "Windah",
+      "alamat": "Kemayoran, Jakarta Pusat",
+      "umur": 30,
+      "NoHP": "0812-1122-1139"
+    },
+    {
+      "id": 13,
+      "nama": "Rani",
+      "alamat": "Pemalang, Jawa Tengah",
+      "umur": 22,
+      "NoHP": "08175-4162-8382"
+    },
+    {
+      "id": 14,
+      "nama": "Dimas Anggara",
+      "alamat": "Bandar Sari, Lampung",
+      "umur": 26,
+      "NoHP": "0817-5406-2312"
+    },
+    {
+      "id": 15,
+      "nama": "Rafi",
+      "alamat": "Tegal, Jawa Tengah",
+      "umur": 21,
+      "NoHP": "0814-0232-1117"
+    },
+    {
+      "id": 16,
+      "nama": "Astrid",
+      "alamat": "Malang, Jakarta Timur",
+      "umur": 19,
+      "NoHP": "0831-1921-6032"
+    },
+    {
+      "id": 17,
+      "nama": "Violette",
+      "alamat": "Pangandaran, Jawa Barat",
+      "umur": 19,
+      "NoHP": "0811-1231-3421"
+    },
+    {
+      "id": 18,
+      "nama": "Hafid Saifudin",
+      "alamat": "Semarang, Jawa Tengah",
       "umur": 20,
-      "NoHP": "0897545628381"
+      "NoHP": "0821-8312-1876"
+    },
+    {
+      "id": 19,
+      "nama": "Mujahidin",
+      "alamat": "Pemalang, Jawa Tengah",
+      "umur": 21,
+      "NoHP": "0842-1722-5101"
+    },
+    {
+      "id": 20,
+      "nama": "Sofyan",
+      "alamat": "Pemalang, Jawa Tengah",
+      "umur": 20,
+      "NoHP": "0811-1122-5412"
+    },
+    {
+      "id": 21,
+      "nama": "Iwan Mahendra",
+      "alamat": "Depok, Jawa Barat",
+      "umur": 34,
+      "NoHP": "0811-9108-0010"
+    },
+    {
+      "id": 22,
+      "nama": "Sugiyanto",
+      "alamat": "Pekalongan, Jawa Tengah",
+      "umur": 59,
+      "NoHP": "0891-1122-7771"
     }
   ]
 }
+
+
+
 
